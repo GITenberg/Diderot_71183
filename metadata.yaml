@@ -1,0 +1,41 @@
+_repo: Diderot_71183
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lehtonen, J. V.
+    alias: Lehtonen, Johannes Vihtori
+    birthdate: 1883
+    deathdate: 1948
+    gutenberg_agent_id: '49411'
+    url: http://www.gutenberg.org/2009/agents/49411
+    wikipedia: https://fi.wikipedia.org/wiki/J._V._Lehtonen
+creator:
+  author:
+    agent_name: Hirn, Y. (Yrjö)
+    aliases:
+    - Hirn, Y. (Yrjo)
+    - Hirn, Yrjö
+    birthdate: 1870
+    deathdate: 1952
+    gutenberg_agent_id: '53996'
+    url: http://www.gutenberg.org/2009/agents/53996
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Yrj%C3%B6_Hirn
+    - https://fi.wikipedia.org/wiki/Yrj%C3%B6_Hirn
+description: ''
+gutenberg_issued: '2023-07-13'
+identifiers:
+  gutenberg: '71183'
+language: fi
+pgterms:marc905: 20230704014135hirn
+pgterms:marc906: '1917'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aFinland :$bWSOY, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Diderot
+url: http://www.gutenberg.org/ebooks/71183
